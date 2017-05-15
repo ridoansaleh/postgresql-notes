@@ -10,8 +10,8 @@
    >> service postgresql start
 
 <p>
-Keterangan Spesifikasi Tools : <br>
-a) OS = Ubuntu 16.04 LTS <br>
-b) Postgresql = versi 9.5 <br>
-c) * = melalui terminal 
+Keterangan : <br>
+a. OS = Ubuntu 16.04 LTS <br>
+b. Postgresql = versi 9.5 <br>
+c. * = melalui terminal 
 </p>
