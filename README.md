@@ -1,7 +1,7 @@
 # Catatan Tentang Postgresql
 
-Keterangan Spesifikasi Tools :
-a) OS = Ubuntu 16.04 LTS 
+Keterangan Spesifikasi Tools : <br>
+a) OS = Ubuntu 16.04 LTS <br>
 b) Postgresql = versi 9.5 
 
 1. Cara cek status Postgresql melalui terminal 
